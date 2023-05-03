@@ -1,0 +1,3 @@
+jupyter nbextension disable --sys-prefix --py widgetsnbextension
+jupyter nbextension uninstall --sys-prefix --py widgetsnbextension
+jupyter labextension uninstall @jupyter-widgets/jupyterlab-manager
